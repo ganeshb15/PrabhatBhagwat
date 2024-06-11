@@ -34,7 +34,7 @@ Visit the website to immerse yourself in the diverse and intricate world of Mr. 
 
 ## Contact
 
-For inquiries, comments, or to purchase artwork, please visit the [Contact](#) page on the website.
+For inquiries, comments, or to purchase artwork, please visit the [Contact](https://ganeshb15.github.io/PrabhatBhagwat/#section4) page on the website.
 
 ## Acknowledgments
 
